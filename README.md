@@ -1,4 +1,5 @@
 🚖 Ola Ride Booking Analytics Dashboard 
+
 📌 Project Overview
 
 An end-to-end analytics solution analyzing 1,03,024 simulated Ola bookings in Bengaluru (July 2024). Using SQL for backend querying and Power BI for visualization, this project uncovers insights on ride volume, cancellations, customer loyalty, revenue flows, and satisfaction trends, enabling data-driven decisions for ride-hailing operations.
